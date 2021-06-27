@@ -1,6 +1,6 @@
-bot by SL DEVELOPMENT TEAM developer 『SL』 | console.log("slicybtw");#4000
+bot by SL DEVELOPMENT TEAM developer 『SL』 | console.log("slicybtw");#5466
 
-copyright SL DEVELOPMENT TEAM BY 『SL』 | console.log("slicybtw");#4000
+copyright SL DEVELOPMENT TEAM BY 『SL』 | console.log("slicybtw");#5466
 
 dm 『SL』 | console.log("slicybtw");#5466 to get perms for using it anywhere or sharing it
 
