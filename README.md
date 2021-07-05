@@ -1,5 +1,10 @@
 requirements <img src="https://media.discordapp.net/attachments/861249810359386112/861307307407966208/IMG_20210704_210740.jpg"></img>
 
+
+Bot:mass dm
+Language: JavaScript
+
+
 bot by SL DEVELOPMENT TEAM developer 『SL』 | console.log("slicybtw");#5466
 
 copyright SL DEVELOPMENT TEAM BY 『SL』 | console.log("slicybtw");#5466
