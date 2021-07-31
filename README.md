@@ -5,10 +5,10 @@ Bot:mass dm
 Language: JavaScript
 
 
-bot by SL DEVELOPMENT TEAM developer 『SL』 | console.log("slicybtw");#5466
+bot by SL DEVELOPMENT TEAM developer 『SL』 | console.log("slicybtw");#0749
 
-copyright SL DEVELOPMENT TEAM BY 『SL』 | console.log("slicybtw");#5466
+copyright SL DEVELOPMENT TEAM BY 『SL』 | console.log("slicybtw");#0749
 
-dm 『SL』 | console.log("slicybtw");#5466 to get perms for using it anywhere or sharing it
+dm 『SL』 | console.log("slicybtw");#0749 to get perms for using it anywhere or sharing it
 
 <img src="https://media.discordapp.net/attachments/795344675304898591/857169859837034516/20210606_141236.jpg"></img>
